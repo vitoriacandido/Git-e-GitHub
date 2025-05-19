@@ -20,17 +20,17 @@ Se estiver colaborando em uma equipe, uma prática comum é criar branches para 
 
 Alguns dos comandos mais utilizados no Git são:
 
-*git status: Exibe o estado dos arquivos no repositório, mostrando alterações, arquivos não rastreados e aqueles prontos para commit.*
+**git status: Exibe o estado dos arquivos no repositório, mostrando alterações, arquivos não rastreados e aqueles prontos para commit.**
 
-*git log: Exibe o histórico de commits do projeto.*
+**git log: Exibe o histórico de commits do projeto.**
 
-*git branch: Exibe, cria ou deleta branches. Para ver todas as branches, usamos git branch -a.*
+**git branch: Exibe, cria ou deleta branches. Para ver todas as branches, usamos git branch -a.**
 
-*git merge: Combina as alterações de uma branch com outra.*
+**git merge: Combina as alterações de uma branch com outra.**
 
-*git pull: Atualiza o repositório local com as últimas alterações do repositório remoto.*
+**git pull: Atualiza o repositório local com as últimas alterações do repositório remoto.**
 
-*git push: Envia as alterações locais para o repositório remoto.*
+**git push: Envia as alterações locais para o repositório remoto.**
 
 ## Colaboração no GitHub
 
